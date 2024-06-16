@@ -1,2 +1,2 @@
 # java-spring
-Proyecto spring base para cursos de proyecto
+Proyecto spring tarea 1 para cursos de proyecto III
